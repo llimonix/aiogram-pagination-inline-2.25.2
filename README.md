@@ -7,7 +7,7 @@ A simple library for aiogram 2.15.2 that allows you to easily do pagination for 
 Install for pip:
 
 ```shell
-pip install aiogram-inline-paginations
+pip install aiogram2152_page
 ```
 
 ## Create paginations object
