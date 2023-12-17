@@ -1,8 +1,8 @@
-# AiogramPaginationInline 2.15.2
+# AiogramPaginationInline 2.25.2
 
 ## Description
 
-A simple library for aiogram 2.15.2 that allows you to easily do pagination for any Inline keyboards.
+A simple library for aiogram 2.25.2 that allows you to easily do pagination for any Inline keyboards.
 
 Install for pip:
 
