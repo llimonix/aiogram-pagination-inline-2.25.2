@@ -33,7 +33,7 @@ A paginator object that, when called, returns a ready-made keyboard with paginat
 ## Get data for registrations handler paginator
 
 ```python
-from aiogram_inline_paginations.paginator import Paginator
+from aiogram2152_page.paginator import Paginator
 from aiogram import types
 
 kb = types.InlineKeyboardMarkup()
