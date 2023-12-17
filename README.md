@@ -7,13 +7,13 @@ A simple library for aiogram 2.25.2 that allows you to easily do pagination for 
 Install for pip:
 
 ```shell
-pip install aiogram2152_page
+pip install aiogram2252_page
 ```
 
 ## Create paginations object
 
 ```python
-from aiogram2152_page.paginator import Paginator
+from aiogram2252_page.paginator import Paginator
 from aiogram import types
 
 kb = types.InlineKeyboardMarkup()
@@ -33,7 +33,7 @@ A paginator object that, when called, returns a ready-made keyboard with paginat
 ## Get data for registrations handler paginator
 
 ```python
-from aiogram2152_page.paginator import Paginator
+from aiogram2252_page.paginator import Paginator
 from aiogram import types
 
 kb = types.InlineKeyboardMarkup()
@@ -62,7 +62,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher.filters import CommandStart
 from aiogram.utils.executor import Executor
 
-from aiogram2152_page.paginator import Paginator
+from aiogram2252_page.paginator import Paginator
 
 token = ''
 
