@@ -7,7 +7,7 @@ A simple library for aiogram 2.25.2 that allows you to easily do pagination for 
 Install for pip:
 
 ```shell
-pip install aiogram2252_page
+pip install aiogram2252-page
 ```
 
 ## Create paginations object
